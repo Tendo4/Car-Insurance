@@ -1,6 +1,5 @@
 # Car-Insurance
  
-
 The stake holder is the insurance company
 
 The dataset is sourced from https://www.kaggle.com/datasets/sagnik1511/car-insurance-data
