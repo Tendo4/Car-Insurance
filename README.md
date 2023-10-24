@@ -1,8 +1,19 @@
 # Car-Insurance
-This involves Car Insurance data set that is about the annual insurance data of a company 
-The stake holders are  car insurance companies
+ 
+
+The stake holder is the insurance company
+
 The dataset is sourced from https://www.kaggle.com/datasets/sagnik1511/car-insurance-data
 
+DESCRIPTION
+
+This involves Car Insurance data set that is about the annual insurance data of a company
+
+The outcome column indicates 1 if a customer has claimed his/her loan else 0.
+
+The data has 19 features from there 18 of them are corresponding logs which were taken by the company.
+
+ANALYTICAL INSIGHTS
 
 ![Vehicle type vs outcome visualization](https://github.com/Tendo4/Car-Insurance/assets/22962828/890843e0-29c3-4ef3-acdf-746232e3ea86)
 
