@@ -46,7 +46,6 @@ False negatives :244
 Basing on the above information , this means that the insurance company isnt able to 100% find out the information about the outcome of people who applied for insurance and those that didnt 
 
 RECOMMENDATIONS:
-
 1) I recommend that Insurance packages should be issued more to people who drive sedan car types because the rate at which they make claims is lower than that of those who drive sports cars          
 
 2) People with a longer driving experience should be targeted and issued insurance because they hardly claim for insurance
