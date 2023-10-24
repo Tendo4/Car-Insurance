@@ -26,3 +26,25 @@ This could be due to the fact that sports cars are more likely to cause accident
 
 The above visual shows us that as the drivers expirience increases , the outcome reduces .
 This means that more expirienced drivers are less likely to make insurance claims 
+
+I selected the KNN model 
+
+Its metrics are shown below
+
+recall:0.88
+
+precision:0.69
+
+accuracy:0.86
+
+Explanation of false positive and false negative  impact on stake Holders
+
+False positives :213
+
+False negatives :244
+
+Basing on the above information , this means that the insurance company isnt able to 100% find out the information about the outcome of people who applied for insurance and those that didnt 
+
+RECOMMENDATIONS:
+
+
